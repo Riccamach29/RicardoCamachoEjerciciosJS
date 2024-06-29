@@ -269,3 +269,19 @@ ganadora. */
 
 /*   14. Realizar un programa que imprima por consola un triangulo de 5 asteriscos de lado. */
   
+/* let asterisco = "* "
+
+for (let i = 1; i <= 5; i++) {
+  console.log(asterisco);
+  asterisco += "* ";
+
+} */
+
+/*   15. Realizar un programa que imprima por consola un triangulo de 5 asteriscos de lado
+pero invertido. */
+
+/* let asterisco = " * "
+
+for (let i = 5; i >= 1; i--) {
+  console.log(asterisco.repeat(i));
+} */
